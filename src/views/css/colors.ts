@@ -3,23 +3,23 @@ import * as _ from "lodash";
 import {ColorCode} from "../../Interfaces";
 
 export const colors = {
-    black: "#292C33",
-    red: "#BF6E7C",
-    white: "#95A2BB",
-    green: "#88B379",
-    yellow: "#D9BD86",
-    blue: "#66A5DF",
-    magenta: "#C699C5",
-    cyan: "#6EC6C6",
+    black: "#16181c",
+    red: "#d73737",
+    white: "#d7dae0",
+    green: "#67d241",
+    yellow: "#dad330",
+    blue: "#2184e0",
+    magenta: "#e628c8",
+    cyan: "#1bcdcd",
 
-    brightBlack: "#484c54",
-    brightRed: "#dd8494",
-    brightWhite: "#adbcd7",
-    brightGreen: "#9dcc8c",
-    brightYellow: "#e9cc92",
-    brightBlue: "#6cb2f0",
-    brightMagenta: "#e8b6e7",
-    brightCyan: "#7adada",
+    brightBlack: "#101114",
+    brightRed: "#e31608",
+    brightWhite: "#f5f9ff",
+    brightGreen: "#43b819",
+    brightYellow: "#fbf336",
+    brightBlue: "#0386fb",
+    brightMagenta: "#f224d1",
+    brightCyan: "#1ddbdb",
 };
 
 const colorIndex = [

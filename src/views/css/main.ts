@@ -9,7 +9,7 @@ import {ColumnList, PaneList} from "../../utils/PaneTree";
 
 export {toDOMString} from "./functions";
 
-const fontSize = 14;
+const fontSize = 16;
 export const outputPadding = 10;
 const promptVerticalPadding = 5;
 const promptHorizontalPadding = 10;
